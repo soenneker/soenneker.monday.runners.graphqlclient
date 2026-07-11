@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Soenneker.Monday.Runners.GraphQlClient": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
