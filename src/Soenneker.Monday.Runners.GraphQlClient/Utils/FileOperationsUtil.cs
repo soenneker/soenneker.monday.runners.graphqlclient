@@ -21,7 +21,7 @@ using Soenneker.Monday.Runners.GraphQlClient.Utils.Abstract;
 
 namespace Soenneker.Monday.Runners.GraphQlClient.Utils;
 
-///<inheritdoc cref="IFileOperationsUtil"/>
+/// <inheritdoc cref="IFileOperationsUtil"/>
 public sealed class FileOperationsUtil : IFileOperationsUtil
 {
     private readonly ILogger<FileOperationsUtil> _logger;
