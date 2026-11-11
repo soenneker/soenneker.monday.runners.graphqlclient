@@ -31,6 +31,6 @@
         <PackageReference Include="Soenneker.GraphQl.Schema.Conversion" Version="11.0.96" />
         <PackageReference Include="Soenneker.GraphQl.Schema.Download" Version="11.0.180" />
         <PackageReference Include="Soenneker.Managers.Runners" Version="11.0.2712" />
-        <PackageReference Include="Soenneker.Utils.File.Download" Version="11.0.1850" />
+        <PackageReference Include="Soenneker.Utils.File.Download" Version="11.0.1851" />
     </ItemGroup>
 </Project>
